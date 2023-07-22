@@ -6,7 +6,7 @@ Built a Modern UI/UX Restaurant Landing Page Website using ReactJS
 ![image](https://github.com/HetMamtora/ModernRestaurent-UI-UX/assets/104263376/6225ae66-aee8-45df-8831-a0e557548068)
 
 Created By : HET MAMTORA <br/>
-LinkedIn : https://www.linkedin.com/in/het-mamtora/ <br/>
+LinkedIn : [Het Mamtora](https://www.linkedin.com/in/het-mamtora/)
 
 - React Functional components and their reusability
 - React file and folder structure
