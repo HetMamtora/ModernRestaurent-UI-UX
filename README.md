@@ -1,2 +1,2 @@
-# ModernRestaurent-UI-UX
- 
+# ModernRestaurant-UI-UX
+Built a Modern UI/UX Restaurant Landing Page Website using ReactJS
