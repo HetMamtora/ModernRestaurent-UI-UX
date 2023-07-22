@@ -19,7 +19,7 @@ const Footer = () => (
         <p className="p__opensans">&quot;The best way to find yourself is to lose yourself in the service of others.&quot;</p>
         <img src={images.spoon} className="spoon__img" style={{ marginTop: 15 }} alt=''/>
         <div className="app__footer-links_icons">
-          <a href="https://github.com/HetMamtora/ModernRestaurant-UI-UX"><FiGithub /></a>
+          <a href="https://github.com/HetMamtora/ModernRestaurent-UI-UX"><FiGithub /></a>
           <a href="https://www.linkedin.com/in/het-mamtora/"><FiLinkedin /></a>
           <a href="#instagram"><FiInstagram /></a>
         </div>
