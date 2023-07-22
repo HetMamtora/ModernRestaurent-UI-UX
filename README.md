@@ -1,5 +1,6 @@
 # ModernRestaurant-UI-UX
-Built a Modern UI/UX Restaurant Landing Page Website using ReactJS
+Built a Modern UI/UX Restaurant Landing Page Website using ReactJS <BR>
+If you are here and liked my work, I would really appreciate a Star from you. =)
 
 ### [LIVE DEPLOYMENT](https://modern-restaurant-ui-ux.netlify.app/)
 
